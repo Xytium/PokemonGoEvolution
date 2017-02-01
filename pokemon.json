@@ -100,7 +100,8 @@
     },
     {
       "stages": [
-        {"number": "039", "name": "Jigglypuff ", "candy": 0}, 
+        {"number": "174", "name": "Igglybuff ", "candy": 0}, 
+        {"number": "039", "name": "Jigglypuff ", "candy": 25}, 
         {"number": "040", "name": "Wigglytuff", "candy": 50}
       ]
     },
